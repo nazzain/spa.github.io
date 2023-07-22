@@ -1,0 +1,248 @@
+.body{
+    height: 5000px;
+    overflow-x: hidden;
+    
+}
+.bg-img{
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    filter: brightness(0.9);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    overflow-x: hidden;
+}
+#icon{
+    margin-left: 360px;
+    color: rgb(250, 235, 216);
+    
+}
+#c{
+    margin-top: 20px;
+}
+#text{
+    color: #f1ddb1;
+    margin-left: 20px;
+    font-size: 80px;
+    
+
+}
+#text1{
+    color: #f1ddb1;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+#text2{
+    color: #f1ddb1;
+    font-size: 20px;
+    margin-left: 20px;
+    
+}
+#text3{
+    margin-left: 20px;
+    color: #312a2a;
+}
+#section{
+    margin-top: 200px;
+    color: #45a5a5;
+}
+#section1{
+    color: #1b2020;
+}
+#col{
+    margin-top: 120px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+#w{
+    color: #117074;
+}
+#log{
+    margin-right: 20px;
+}
+#r{
+    margin-top: 120px;
+}
+#img{
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 120px;
+    border-radius: 40px;
+}
+#g{
+    background-image: linear-gradient(rgb(193, 223, 226), rgb(236, 241, 241));
+    height: 800px;
+    border-top-left-radius: 6em 4em;
+
+border-bottom-left-radius: 6em 4em;
+margin-left: 75px;
+
+
+
+}
+#h{
+
+    margin-top: 100px;
+    text-align: left;
+    padding: 80px;
+    margin-left: 120px;
+    
+    
+}
+#k{
+    margin-top: 120px;
+    margin-left: 30px;
+    
+    
+
+}
+#t{
+    background-color: #3f5555;
+    text-align: center;
+}
+.f{
+    padding-right: 80px;
+}
+.h1{
+    font-size: 20px;
+}
+#l{
+    font-size: 40px;
+    color: #063b34;
+    font-family: 'Noto Serif', serif;
+}
+#p1{
+
+}
+#h2{
+color: #5a8381;
+font-size: 60px;
+font-family: 'Noto Serif', serif;
+}
+#b3{
+    background-color: #117074;
+    text-align: center;
+    margin-left: 530px;
+    
+}
+
+#blur{
+background-image: url(massage22.jpg);
+background-repeat: no-repeat;
+width: 1400px;
+height: 1000px;
+background-position: cover;
+display: flex;
+align-items: center;
+justify-content: center;
+position: absolute;
+   
+    
+}  
+#btext{
+
+    width: 1200px;
+    height: 950px;
+    text-align: center;
+    border: 2px rgb(82, 79, 81);
+    backdrop-filter: blur(12px);
+    border: 2px slateblue;
+    position: relative;
+
+}
+
+#texto{
+text-align: left;
+margin-top: 200px;
+
+position: relative;
+
+
+}
+#texto1{
+
+    text-align: left;
+    position: relative;
+    margin-top: 200px;
+}
+#pm{
+    
+   margin-right: 30px ;
+   
+
+}
+#pm1{
+    margin-top: 280px;
+}
+#overt{
+    font-family: 'Noto Serif', serif;
+    font-size: 45px;
+    padding: 5px;
+}
+#d{
+    font-size: 50px;
+    font-family: 'Noto Serif', serif;
+    color: #395f5f;
+    
+    
+}
+
+#border{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #f3f8f8;
+    margin-top: 200px;
+}
+#bc{
+    background-color: #d7e2e2;
+    text-align: center;
+    margin-top: 80px;
+    padding: 20px;
+}
+#h3{
+    padding-top: 100px;
+    text-align: left;
+    margin-left: 90px;
+    border-radius: 30px;
+}
+#tg{
+ 
+    text-align: center;
+}
+#nu{
+    background-color: #054e4e;
+
+}
+#j{
+    margin-top: 90px;
+    text-align: left;
+    margin-left: 40PX;
+    
+}
+#nut{
+    text-align: left;
+    margin-left: 80px;
+    padding: 20px;
+}
+#copy{
+    text-align: left;
+}
+#line{
+    padding: 40px;
+}
+#y{
+    background-color: #ebf4f3;
+    padding: 90px;
+}
+#icon2{
+
+}
+
+
+
+
+
+
+

@@ -1,0 +1,156 @@
+.body{
+    height: 5000px;
+    overflow-x: hidden;
+    
+}
+.bg-img{
+    height: 80vh;
+    width: 100vw;
+    object-fit: cover;
+    filter: brightness(0.9);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    overflow-x: hidden;
+}
+
+#icon{
+    margin-left: 360px;
+    color: rgb(247, 245, 244);
+    
+}
+#c{
+    margin-top: 20px;
+}
+#text{
+    color: #f0eeeb;
+    margin-left: 20px;
+    font-size: 90px; 
+    font-family: 'Noto Serif', serif;
+    color: #fff;
+}
+    
+
+
+#text1{
+    color: #f8f6f2;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+#text2{
+    color: #f5f1e9;
+    font-size: 20px;
+    margin-left: 20px;
+    
+}
+#text3{
+    margin-left: 20px;
+    color: #312a2a;
+}
+#cd{
+    margin-top: 40px ;
+    background-color: #fff;
+}
+#co{
+    font-family: 'Noto Serif', serif;
+    color: #376e69; 
+    font-size: 30px;
+}
+#c{
+    color: #8db6ad;
+    margin-left: 80px;
+}
+#top{
+    margin-top: 140px;
+
+    font-family: 'Noto Serif', serif;
+    font-size: 40px;
+    
+}
+#px{
+margin-left: 20px;
+margin-top: 40px;
+}
+#t1{
+    margin-left: 80px;
+    margin-top: 40px;
+    
+}
+
+    
+
+#p2{
+    margin-left: 40px;
+}
+#nu{
+    background-color: #054e4e;
+}
+#j{
+    margin-top: 90px;
+    text-align: left;
+    margin-left: 40PX;
+    
+}
+#nut{
+    text-align: left;
+    margin-left: 80px;
+    padding: 20px;
+}
+
+
+
+#be{
+    margin-top: 40px;
+    position: absolute;
+    
+}
+#t3{
+    position: relative;
+    margin-top: 240px ;
+    font-size: 40px;
+    font-family: 'Noto Serif', serif;
+}
+#t5{
+    position: relative;
+    margin-top: 60px ;
+    
+    
+}
+
+
+
+#c{
+
+    margin-left: 580px;
+    
+    
+}
+.img{
+    background-image: url(masaage-balen.jpg) ;
+    
+    
+    overflow-x: hidden;
+    
+}
+#mt{
+    margin-top: 40px;
+    font-family: 'Noto Serif', serif;
+    color: #304b45;
+}
+
+
+#t2{
+margin-top: 160px;
+position: relative;
+}
+#h{
+    margin-top: 200px;
+    margin-left: 40px;
+    padding: 30px;
+}
+#h4{
+    margin-top: 200px;
+    margin-left: 80px;
+}  
+

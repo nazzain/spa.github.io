@@ -1,0 +1,115 @@
+.body{
+   margin: 0px;
+   padding: 0px;
+   
+}
+#bg-img{
+    background-image: linear-gradient(rgb(209, 171, 121), rgb(230, 202, 177));
+    height: 450px;
+    
+    object-fit: cover;
+    filter: brightness(0.9);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    overflow-x: hidden;
+}
+
+
+
+#mid{
+    margin-top: 20px;
+    font-size: 90px;
+    font-family: 'Noto Serif', serif;
+    color: #fff;
+    
+}
+#center{
+    margin-top:  140px;
+    color: #fff;
+
+   
+
+}
+#icon{
+    margin-left: 360px;
+    color: rgb(250, 235, 216);
+}
+#lot{
+    margin-top: 160px;
+
+    margin-left: 80px;
+}
+   
+#lot1{
+
+    margin-left: 80px;
+}
+#carousel{
+    margin-top: 200px;
+}
+#textcol{
+    margin-top: 80px;
+    padding: 20px;
+}
+#textcol1{
+    margin-top: 80px;
+}
+#col{
+    
+        margin-top: 120px;
+        margin-left: 40px;
+        margin-bottom: 20px;
+        text-align: center;
+}
+#w{
+    color: #096164;
+
+}
+#bc{
+    background-color: #d7e2e2;
+    text-align: center;
+    margin-top: 80px;
+    padding: 20px;
+}
+#nu{
+    background-color: #054e4e;
+}
+#j{
+    margin-top: 90px;
+    text-align: left;
+    margin-left: 40PX;
+    
+}
+#nut{
+    text-align: left;
+    margin-left: 80px;
+    padding: 20px;
+}
+#copy{
+    text-align: left;
+}
+.section-work-data {
+    
+    text-align: center;
+    transition: all 0.7s linear;
+    color: #fff;
+}
+.counter-numbers {
+    font-size: 4.8rem;
+}
+.section-work-data p {
+    color: #fff;
+    text-transform: capitalize;
+}
+#g{
+    background-image: linear-gradient(rgb(224, 235, 236), rgb(143, 179, 179));
+}
+#met{
+    font-family: 'Noto Serif', serif;
+    margin-top: 80px;
+    font-size: 60px;
+    color: #355253;
+}
+
